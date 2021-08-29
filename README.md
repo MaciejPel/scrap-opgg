@@ -1,6 +1,7 @@
 <h3 align="center">Scrap info about wr based on player and given season</h3>
 
-nick variable - set players nickname, the one that comes at the and of op.gg profile link
+nick variable - set player's nickname, the one that comes at the and of op.gg profile link
+
 season variable - season that intrests you
 
 Seasons variable explanation:
